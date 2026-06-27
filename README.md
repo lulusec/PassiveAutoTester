@@ -1,4 +1,4 @@
-# PassiveAutoTester — Burp Suite Extension
+# PassiveAutoTester - Burp Suite Extension
 
 A passive-only Burp Suite extension built on the Montoya API that automatically tests in-scope GET requests for four common web vulnerabilities. It runs entirely in the background, adds no UI panel, and never modifies or blocks your traffic.
 
